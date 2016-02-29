@@ -1,0 +1,145 @@
+
+{
+
+   "hits": [
+
+      {
+
+         "organization_id": "7831216",
+
+         "ein": "54-1774039",
+
+         "organization_name": "Alternatives for Battered Women",
+
+         "city": "Williamsburg",
+
+         "state": "VA",
+
+         "zip": "23188",
+		 
+		     "phone": "5516891327",
+
+         "participation": "Gold",
+
+         "public_report": "http://rocwiki.org/Alternatives_for_Battered_Women"
+
+      },
+
+      {
+
+         "organization_id": "7830501",
+
+         "ein": "54-1822359",
+
+         "organization_name": "American Association of University Women",
+
+         "city": "Williamsburg",
+
+         "state": "VA",
+
+         "zip": "23188",
+		 
+		     "phone": "5516891327",
+
+         "participation": [],
+
+         "public_report": "http://rocwiki.org/American_Association_of_University_Women"
+
+      },
+
+      {
+
+         "organization_id": "7812712",
+
+         "ein": "54-1639135",
+
+         "organization_name": "Resolve of Greater Rochester, Inc.",
+
+         "city": "Williamsburg",
+
+         "state": "VA",
+
+         "zip": "23188",
+		 
+		     "phone": "5516891327",
+
+         "participation": "Gold",
+
+         "public_report": "http://rocwiki.org/Resolve_of_Greater_Rochester%2C_Inc."
+
+      },
+
+      {
+
+         "organization_id": "7813510",
+
+         "ein": "54-1663905",
+
+         "organization_name": "Rochester Mommies",
+
+         "city": "Williamsburg",
+
+         "state": "VA",
+
+         "zip": "23188",
+		 
+		     "phone": "5516891327",
+
+         "participation": "Silver",
+
+         "public_report": "http://rocwiki.org/RochesterMommies"
+
+      },
+
+      {
+
+         "organization_id": "7760338",
+
+         "ein": "52-1289657",
+
+         "organization_name": "Sojourner House",
+
+         "city": "Williamsburg",
+
+         "state": "VA",
+
+         "zip": "23188",
+		 
+		     "phone": "5516891327",
+
+         "participation": "Silver",
+
+         "public_report": "http://rocwiki.org/Sojourner_House"
+
+      },
+
+      {
+
+         "organization_id": "7201137",
+
+         "ein": "23-7305274",
+
+         "organization_name": "Step by Step of Rochester",
+
+         "city": "Williamsburg",
+
+         "state": "VA",
+
+         "zip": "23188",
+		 
+		     "phone": "5516891327",
+
+         "participation": "Gold",
+
+         "public_report": "http://rocwiki.org/Step_by_Step_of_Rochester"
+
+      }
+
+   ],
+
+   "retrieval_time_in_milliseconds": "405.1552",
+
+   "total_pipeline_time_in_milliseconds": "780.5745"
+
+}
+
